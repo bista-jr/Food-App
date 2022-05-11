@@ -1,4 +1,4 @@
-package com.foodeo.backend.Foodeo;
+package com.foodeo.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

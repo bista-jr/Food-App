@@ -1,4 +1,4 @@
-package com.foodeo.backend.Foodeo;
+package com.foodeo.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
